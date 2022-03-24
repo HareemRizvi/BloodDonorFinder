@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Containers",
+    "\\src\\Containers\\post",
+    "\\src\\Containers\\post\\components",
+    "\\src\\Containers\\post\\components\\AddTask",
+    "\\src\\Containers\\post\\components\\context",
+    "\\src\\Containers\\post\\components\\DropDown",
+    "\\src\\Containers\\post\\components\\Task",
+    "\\src\\Containers\\post\\components\\Tasks"
+  ],
+  "PreviewInSolutionExplorer": false
+}
